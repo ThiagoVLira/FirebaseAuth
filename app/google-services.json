@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869309425774",
+    "project_id": "appunisanta-b1721",
+    "storage_bucket": "appunisanta-b1721.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869309425774:android:b77644c0f8c95f26ca5e7f",
+        "android_client_info": {
+          "package_name": "br.unisanta.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQiswNeooUHGweqiZ3pWL9XW9s-pNdXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
